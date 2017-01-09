@@ -1,5 +1,5 @@
 {
-  "name": "html-metadata",
+  "name": "custom-html-metadata",
   "version": "1.6.2",
   "description": "Scrapes metadata of several different standards",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "bluebird": "3.4.6",
     "cheerio": "0.22.0",
     "microdata-node": "0.2.1",
-    "preq": "0.5.2"
+    "preq": "0.3.13"
   },
   "devDependencies": {
     "istanbul": "0.4.5",
@@ -28,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/wikimedia/html-metadata.git"
+    "url": "https://github.com/CoericK/html-metadata.git"
   },
   "author": "Marielle Volz <marielle.volz@gmail.com>",
   "contributors": [
